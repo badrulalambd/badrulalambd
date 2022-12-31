@@ -20,7 +20,7 @@ Skills: Android studio | Java | Kotlin | Firebase | Room Database | SQLite | Sha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrulalambd)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=badrulalambd&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=badrulalambd&show_icons=true)  -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=badrulalambd)  
 
