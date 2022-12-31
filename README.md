@@ -14,13 +14,15 @@ Skills: Android studio | Java | Kotlin | Firebase | Room Database | SQLite | Sha
 - 📫 How to reach me: badrulalam.ju@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badrulalambd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/badrul-alam-1175a2195//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bdlmsalam)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badrulalambd)  -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/badrul-alam-1175a2195//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bdlmsalam)  
 
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrulalambd)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=badrulalambd&show_icons=true)  -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=badrulalambd&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=badrulalambd)  
 
