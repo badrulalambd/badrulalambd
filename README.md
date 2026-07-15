@@ -10,12 +10,15 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 
 <p align="center">
   <a href="mailto:badrulalam.ju@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="tel:+8801609004573">
-    <img src="https://img.shields.io/badge/Call-%2B8801609004573-0A66C2?style=for-the-badge&logo=phonepe&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/Call%20Now-0A66C2?style=for-the-badge&logo=googlemessages&logoColor=white" alt="Call Now" />
   </a>
+
   <a href="https://wa.me/8801609004573" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
