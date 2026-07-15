@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Badrul Alam</h1>
+<h1 align="center">Hello, I'm Badrul Alam</h1>
 
 <h3 align="center">
 Full-Stack Web Developer | WordPress Expert | Building Modern & High-Performance Websites
@@ -34,12 +34,12 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,git,github,vscode,figma,wordpress,elementor,woocommerce" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,git,github,vscode,figma,wordpress" />
 </p>
 
 ---
 
-## 💼 Services
+## 💼 My Services
 
 ✔ Full-Stack Web Development  
 ✔ WordPress Development  
