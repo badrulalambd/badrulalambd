@@ -34,7 +34,7 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,wordpress,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,git,github,vscode,figma,wordpress,elementor,woocommerce" />
 </p>
 
 ---
@@ -49,19 +49,6 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 ✔ API Integration  
 ✔ Website Speed Optimization  
 ✔ Bug Fixes & Maintenance
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
