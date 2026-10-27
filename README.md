@@ -36,7 +36,7 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,git,github,vscode,figma,wordpress" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,nextjs,php,nodejs,mysql,git,github,vscode,figma,wordpress,elementor" />
 </p>
 
 ---
