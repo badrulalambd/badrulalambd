@@ -44,14 +44,23 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 ## 💼 My Services
 
 ✔ Custom Full-Stack Web Application Development
+
 ✔ Landing Page Design & Development
+
 ✔ REST API Development & Integration
+
 ✔ Database Design & Integration
+
 ✔ Custom WordPress Website Design & Development
+
 ✔ Elementor-Based Website Design & Customization
+
 ✔ WooCommerce E-Commerce Website Design
+
 ✔ Website Speed & Performance Optimization
+
 ✔ Bug Fixes & Troubleshooting
+
 ✔ Website Maintenance & Technical Support
 
 ---
