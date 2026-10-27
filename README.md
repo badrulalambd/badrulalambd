@@ -26,10 +26,10 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 
 ## 👨‍💻 About Me
 
-- 🚀 Full-Stack Web Developer with **6+ years** of experience
-- 💼 Specialized in custom websites, WordPress, and web applications
-- 🎯 Passionate about clean code, responsive design, and performance
-- 🤝 Available for freelance projects and long-term collaborations
+- 🚀 Full-Stack Web Developer & WordPress Expert with 6+ years of experience
+- 💼 Skilled in JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, REST APIs, Express.js, PHP, and WordPress
+- 🎯 Passionate about clean code, scalable architecture, responsive design, and performance
+- 🤝 Available for freelance projects, business collaborations, and long-term partnerships
 
 ---
 
@@ -43,14 +43,16 @@ I help businesses, startups, and agencies build fast, responsive, SEO-friendly w
 
 ## 💼 My Services
 
-✔ Full-Stack Web Development  
-✔ WordPress Development  
-✔ Custom Website Development  
-✔ E-Commerce Websites  
-✔ Landing Pages  
-✔ API Integration  
-✔ Website Speed Optimization  
-✔ Bug Fixes & Maintenance
+✔ Custom Full-Stack Web Application Development
+✔ Landing Page Design & Development
+✔ REST API Development & Integration
+✔ Database Design & Integration
+✔ Custom WordPress Website Design & Development
+✔ Elementor-Based Website Design & Customization
+✔ WooCommerce E-Commerce Website Design
+✔ Website Speed & Performance Optimization
+✔ Bug Fixes & Troubleshooting
+✔ Website Maintenance & Technical Support
 
 ---
 
